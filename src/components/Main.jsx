@@ -6,7 +6,7 @@ import PokeList from "./PokeList.jsx";
 const Main = () => {
   return (
     <View style={{ marginTop: Constants.statusBarHeight, flexGrow: 1 }}>
-      <Text>Welcome to the 1rst generation!</Text>
+      <Text>Welcome to the 1rst generation! uwu</Text>
       <PokeList />
     </View>
   );
